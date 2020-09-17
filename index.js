@@ -1,2 +1,3 @@
 console.error('HALP!')
-console.
+console.log('Nate')
+console.warn('Glick')
